@@ -24,6 +24,7 @@ export class OrbitCountsComponent implements OnInit {
 		 }
 	  }
 	}
+	console.log(count);
 	return count;
  }
 
